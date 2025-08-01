@@ -1,18 +1,36 @@
-# Kompyuter-aksessuarlari-tahlili
+🖥️ Kompyuter aksessuarlari tahlili
 
-Kompyuter aksessuarlari do'koni tahlil qilindi.
+Kompyuter aksessuarlari savdosi Microsoft Excel va Power BI dasturlari yordamida chuqur tahlil qilindi. Power Query orqali ma’lumotlar tayyorlandi va DAX formulalari asosida hisob-kitoblar amalga oshirildi.
 
-# Nimalar aniqlandi ?
-Eng ko'p foyda keltirgan tovarlar
 
-Yillar kesimida umumiy va o'rtacha summa
+🔍 Tahlil natijalari
 
-Eng ko'p zarar keltirgan tovarlar
+💰 Eng ko‘p foyda keltirgan tovarlar
 
-# Ko'rinish
+📅 Yillar kesimida umumiy va o‘rtacha savdo summasi
+
+📉 Eng ko‘p zarar keltirgan tovarlar
+
+📊 Interaktiv grafiklar va avtomatik vizualizatsiyalar
+
+
+📦 Ma’lumotlar manbai
+
+Ma’lumotlar do‘konning savdo hisobotlaridan va Excel hujjatlaridan olindi. Power BI orqali avtomatlashtirilgan tahlil shaklida taqdim etildi.
+
+
+🖼️ Ko‘rinish
+
 
 <img width="1302" height="729" alt="image" src="https://github.com/user-attachments/assets/218df4fa-4051-44b7-b243-b28348c39476" />
 
 
-# Ishlatilgan texnologiyalar
-Excel, Power BI, Dax, Power query
+🧰 Ishlatilgan texnologiyalar
+
+📊 Microsoft Excel
+
+📈 Microsoft Power BI
+
+🧮 DAX
+
+🔄 Power Query
